@@ -169,11 +169,8 @@ Historical performance does not guarantee future results. Always conduct indepen
 
 Developed as a Python and financial data analysis project.
 
+## 📊 Dashboard Preview
 
-    ## 📊 Dashboard Preview
+The following dashboard provides a visual overview of Apple's stock market performance, including price trends, moving averages, trading volume, daily returns, and volatility.
 
-    The following dashboard provides a visual overview of Apple's stock market performance, including price trends, moving averages, trading volume, daily returns, and volatility.
-
-    ![AAPL Complete Analysis Dashboard](outputs/charts/AAPL_complete_analysis_dashboard.png)
-
-    
+![AAPL Complete Analysis Dashboard](outputs/charts/AAPL_complete_analysis_dashboard.png)
