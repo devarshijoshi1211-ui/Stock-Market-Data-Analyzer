@@ -72,7 +72,7 @@ Stock-Market-Data-Analyzer/
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Stock-Market-Data-Analyzer.git
+git clone https://github.com/devarshijoshi1211-ui/Stock-Market-Data-Analyzer.git
 cd Stock-Market-Data-Analyzer
 ```
 
