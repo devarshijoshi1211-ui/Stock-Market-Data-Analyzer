@@ -1,0 +1,85 @@
+============================================================
+              STOCK MARKET DATA ANALYSIS REPORT
+============================================================
+
+Stock Ticker: AAPL
+Report Generated: 2026-11-21 08:50:43
+
+------------------------------------------------------------
+1. DATASET OVERVIEW
+------------------------------------------------------------
+
+Total Records: 250
+Start Date: 2025-01-02 00:00:00
+End Date: 2025-12-31 00:00:00
+
+------------------------------------------------------------
+2. PRICE ANALYSIS
+------------------------------------------------------------
+
+Latest Closing Price: $270.92
+Highest Closing Price: $285.20
+Lowest Closing Price: $171.24
+Average Closing Price: $230.98
+Average Trading Volume: 54,175,778
+
+------------------------------------------------------------
+3. MOVING AVERAGE ANALYSIS
+------------------------------------------------------------
+
+Latest MA20: $274.52
+Latest MA50: $271.64
+Moving Average Relationship: Positive moving-average relationship
+
+------------------------------------------------------------
+4. DAILY RETURNS ANALYSIS
+------------------------------------------------------------
+
+Average Daily Return: 0.0661%
+Best Trading Day: 2025-04-09 00:00:00
+Best Daily Return: 15.3288%
+Worst Trading Day: 2025-04-03 00:00:00
+Worst Daily Return: -9.2456%
+Cumulative Return: 11.99%
+
+------------------------------------------------------------
+5. VOLATILITY ANALYSIS
+------------------------------------------------------------
+
+Daily Volatility: 2.0450%
+Annualized Historical Volatility: 32.46%
+
+------------------------------------------------------------
+6. ANALYTICAL SUMMARY
+------------------------------------------------------------
+
+The analysis covers 250 trading records
+for AAPL between 2025-01-02 00:00:00 and
+2025-12-31 00:00:00.
+
+The moving-average relationship is:
+Positive moving-average relationship
+
+The calculated cumulative return is
+11.99%.
+
+Annualized historical volatility is
+32.46%.
+
+These measurements describe historical market behaviour.
+They should not be treated as predictions of future performance.
+
+------------------------------------------------------------
+7. DISCLAIMER
+------------------------------------------------------------
+
+This report is for educational and informational purposes only.
+It does not constitute investment, financial, or trading advice.
+
+Historical performance does not guarantee future results.
+Always conduct independent research before making financial
+decisions.
+
+============================================================
+                            END OF REPORT
+============================================================
