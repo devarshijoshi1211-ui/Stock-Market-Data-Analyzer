@@ -167,7 +167,7 @@ Historical performance does not guarantee future results. Always conduct indepen
 
 ## Author
 
-Developed as a Python and financial data analysis project.
+Devarshi Joshi.
 
 
     ## 📊 Dashboard Preview
